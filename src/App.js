@@ -1,6 +1,5 @@
 import React, {useEffect, useState, useRef} from 'react';
 import SquareComponent from "./SquareComponent";
-import DeleayComponent from './delayComp';
 //import AlertProvider, { alert, confirm, prompt } from 'react-alert-async'
 
 const clearState = ["", "", "", "", "", "", "", "", "", ""];
